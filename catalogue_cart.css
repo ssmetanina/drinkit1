@@ -122,12 +122,12 @@ nav li a:hover{
     width: 90px;
 }
 
-.menu {
+#menu {
     margin: 30px;
     margin-top: -250px;
 }
 
-.menu h2 {
+#menu h2 {
     margin-left: 450px;
 }
 
