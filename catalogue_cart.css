@@ -128,7 +128,7 @@ nav li a:hover{
 }
 
 #menu h2 {
-    margin-left: 450px;
+    margin-left: 400px;
 }
 
 table {
@@ -163,7 +163,7 @@ input {
 }
 
 #to_order {
-    margin-left: 30%;
+    margin-left: 27%;
 }
 #to_order form {
     margin-left: -5%;
@@ -233,7 +233,7 @@ border-radius: 28px;
 }
 
 #sidebar {
-    margin: 75px 75px 0px 0px;
+    margin: 75px 50px 0px 0px;
     width: 180px;
     height: 200px;
     background-color: #0125AF;
