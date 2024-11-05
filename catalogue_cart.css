@@ -212,13 +212,13 @@ border-radius: 28px;
 }
 
 #reset {
-    margin-left: 0%;
+    margin-left: 1%;
     margin-top: 1%;
     border-color: #130C03;
 }
 
 #Order {
-    margin-left: -10%;
+    margin-left: -15%;
     background-color: blue;
     color: #FFFFFF;
 }
